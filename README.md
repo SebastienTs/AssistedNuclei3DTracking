@@ -1,2 +1,2 @@
 # AssistedNuclei3DTracking
-Companion code to the book chapter "Assisted Nuclei 3D Tracking of heterogeneous groups of migrating cells in vivo"
+Material for the method "3D tracking of migrating cells from live microscopy time-lapses"
